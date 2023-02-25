@@ -3,7 +3,7 @@
 
 - 👨‍💻 All of my projects are available at [https://uxabhishek.dorik.io/](https://uxabhishek.dorik.io/)
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/11Fi5DA_j5FXqCXzOMxjlXuDTya2hZ4i5/view?usp=share_link](https://drive.google.com/file/d/11Fi5DA_j5FXqCXzOMxjlXuDTya2hZ4i5/view?usp=share_link)
+- 📄 Resume [https://drive.google.com/file/d/11Fi5DA_j5FXqCXzOMxjlXuDTya2hZ4i5/view?usp=share_link](https://drive.google.com/file/d/11Fi5DA_j5FXqCXzOMxjlXuDTya2hZ4i5/view?usp=share_link)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
