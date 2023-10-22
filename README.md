@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on **SmartEstate**
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">Connect with me: </h3>
 <p align="left">
 <a href="https://linkedin.com/in/abhishek-shukla-3b30bb1b9" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="abhishek-shukla-3b30bb1b9" height="30" width="40" /></a>
 <a href="https://instagram.com/theabhishek.lifts" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="theabhishek.lifts" height="30" width="40" /></a>
